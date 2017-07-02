@@ -33,6 +33,9 @@
     <ClCompile Include="TestMain.cpp">
       <Filter>Source Files\Testing</Filter>
     </ClCompile>
+    <ClCompile Include="Window.cpp">
+      <Filter>Source Files\Engine\Graphics</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="MathLog.h">
@@ -40,6 +43,9 @@
     </ClInclude>
     <ClInclude Include="Engine.h">
       <Filter>Source Files\Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="Window.h">
+      <Filter>Source Files\Engine\Graphics</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
